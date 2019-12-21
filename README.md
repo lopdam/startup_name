@@ -9,13 +9,13 @@ you can select the name that you more like,
 the names that you like save and view on a new screen.
 
 ## View App
-![App](./source/view.gif=540x960)
+![App](./source/view.gif =540x960)
 
 ## Login
-![Login](./source/login.png=540x960)
+![Login](./source/login.png =540x960)
 
 ## Home
-![Home](./source/home.png=540x960)
+![Home](./source/home.png =540x960)
 
 ## Like Names
-![Like](./source/like.png=540x960)
+![Like](./source/like.png =540x960)
