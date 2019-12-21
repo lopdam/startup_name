@@ -8,6 +8,9 @@ You can generate a list of startup names and
 you can select the name that you more like,
 the names that you like save and view on a new screen.
 
+## View App
+![App](./source/view.gif)
+
 ## Login
 ![Login](./source/login.png)
 
@@ -16,6 +19,3 @@ the names that you like save and view on a new screen.
 
 ## Like Names
 ![Like](./source/like.png)
-
-## View App
-![App](./source/view.gif)
