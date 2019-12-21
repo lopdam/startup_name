@@ -9,14 +9,13 @@ you can select the name that you more like,
 the names that you like save and view on a new screen.
 
 ## View App
-![App](./source/view.gif){:height="50%" width="50%"}
-
+![App](./source/view.gif)
 
 ## Login
-![Login](./source/login.png){:height="50%" width="50%"}
+![Login](./source/login.png)
 
 ## Home
-![Home](./source/home.png){:height="50%" width="50%"}
+![Home](./source/home.png)
 
 ## Like Names
-![Like](./source/like.png){:height="50%" width="50%"}
+![Like](./source/like.png)
